@@ -9,4 +9,8 @@ fun main(){
     //short
     val shortValue: Short = 20
     println("Short: $shortValue")
+
+    //Int
+    val intValue: Int = 30
+    println("Int: $intValue")
 }
