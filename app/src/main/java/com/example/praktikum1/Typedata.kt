@@ -30,4 +30,10 @@ fun main(){
     val booleanValue: Boolean = true
     println("Boolean: $booleanValue")
 
+    //string
+    var stringValue: String = "Hello, world!"
+    println("String: $stringValue")
+
+
+
 }
