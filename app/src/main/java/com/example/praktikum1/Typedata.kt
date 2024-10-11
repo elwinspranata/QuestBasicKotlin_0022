@@ -34,6 +34,7 @@ fun main(){
     var stringValue: String = "Hello, world!"
     println("String: $stringValue")
 
-
+    stringValue = "Helo, Kotlin"
+    println("String: $stringValue")
 
 }
